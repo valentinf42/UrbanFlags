@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nombre": "Reme1", "precio": 4000, "img": "../img/foto1.jpg", "cantidad": 1 },
+  { "id": 2, "nombre": "Reme2", "precio": 4200, "img": "../img/foto2.jpg", "cantidad": 1 },
+  { "id": 3, "nombre": "Reme3", "precio": 4300, "img": "../img/foto3.jpg", "cantidad": 1 },
+  { "id": 4, "nombre": "Reme4", "precio": 4400, "img": "../img/foto4.jpg", "cantidad": 1 },
+  { "id": 5, "nombre": "Reme5", "precio": 4500, "img": "../img/foto5.jpg", "cantidad": 1 },
+  { "id": 6, "nombre": "Reme6", "precio": 4600, "img": "../img/foto6.jpg", "cantidad": 1 }
+]
